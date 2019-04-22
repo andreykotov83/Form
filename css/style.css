@@ -1,0 +1,133 @@
+body {
+  /* background-image: url(../news-letter.jpg); */
+  /* background-repeat: no-repeat; */
+  /* background-position: top center; */
+  background-color: #BAC5DB;
+  font-family: 'Lato', sans-serif;
+}
+
+.panel {
+  margin-top: 105px;
+  background-color: #BAC5DB;
+}
+
+.wrapper {
+  background-color: #353a45;
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  border: 1px solid;
+  border-radius: 20px;
+  max-width: 666px;
+}
+
+.border-1 {
+  width: 96px;
+  height: 96px;
+  display: block;
+  padding: 8px;
+  margin: 0 auto;
+  margin-top: -50px;
+  background-image: linear-gradient(59deg, #47aae6 0%, #9372bf 100%);
+  border-radius: 50%;
+}
+
+.border-2 {
+  width: 80px;
+  height: 80px;
+  display: block;
+  padding: 15px;
+  margin: 0 auto;
+  border: 3px solid white;
+  border-radius: 50%
+}
+
+.icons {
+  display: block;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+}
+
+.close {
+  display: block;
+  position: absolute;
+  font-size: 35px;
+  bottom: 335px;
+  right: 10px;
+}
+
+.title {
+  text-align: center;
+  display: block;
+}
+
+.title__text {
+  margin: 0;
+  padding-top: 28px;
+  color: #538fff;
+  font-family: Lato;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+}
+
+.sabtitle {
+  margin: 0;
+  padding-top: 18px;
+  color: white;
+  font-family: Lato;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 34px;
+}
+
+.form {
+  margin: 0;
+  text-align: center;
+  padding-top: 34px;
+}
+
+.form__input {
+  width: 371px;
+  padding: 10px 6px;
+  margin-right: 10px;
+  color: darkgrey;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 29px;
+  background-color: white;
+  border-radius: 10px;
+
+}
+
+.btn {
+  width: 161px;
+  padding: 12px 6px;
+  border: none;
+  color: white;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 29px;
+  text-transform: uppercase;
+  background-color: #538fff;
+  border-radius: 10px;
+}
+
+.futer {
+  margin-bottom: 30px;
+}
+
+.futer-1 {
+  display: block;
+  margin: 0 auto;
+  padding: 27px 0px;
+  text-align: center;
+  color: #787d87;
+  font-family: Lato;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 34px;
+}
